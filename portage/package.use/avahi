@@ -1,0 +1,2 @@
+net-dns/avahi autoipd gtk mdnsresponder-compat 
+sys-auth/nss-mdns autoipd gtk mdnsresponder-compat

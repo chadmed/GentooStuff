@@ -1,0 +1,6 @@
+kde-apps/kde-apps-meta admin network util -webengine -games -education -multimedia -graphics
+kde-apps/kdenetwork-meta -webengine -bittorrent
+kde-apps/kdecore-meta -webengine
+kde-apps/kdeutils-meta -webengine
+kde-plasma/kdeplasma-addons -webengine
+kde-plasma/libksysguard -webengine

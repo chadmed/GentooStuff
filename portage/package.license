@@ -1,0 +1,20 @@
+# required by linux-firmware (argument)
+=sys-kernel/linux-firmware-20210208 linux-fw-redistributable no-source-code
+=sys-kernel/linux-firmware-20210315 linux-fw-redistributable no-source-code
+# required by nvidia-drivers (argument)
+>=x11-drivers/nvidia-drivers-460.39-r1 NVIDIA-r2
+# required by media-video/transcode-1.1.7-r5::gentoo[aac]
+# required by kde-apps/k3b-20.08.3::gentoo[dvd,encode]
+# required by kde-apps/kdemultimedia-meta-20.08.3::gentoo[cdrom]
+# required by kde-apps/kde-apps-meta-20.08.3::gentoo[multimedia]
+# required by kde-apps-meta (argument)
+>=media-libs/faac-1.30 MPEG-4
+# required by games-util/steam-launcher (argument)
+>=games-util/steam-launcher-1.0.0.68 ValveSteamLicense
+# required by corefonts (argument)
+>=media-fonts/corefonts-1-r7 MSttfEULA
+
+# Sublime Text license
+>=app-editors/sublime-text-3_p3211-r1 Sublime
+# required by discord-bin (argument)
+>=net-im/discord-bin-0.0.13 all-rights-reserved
